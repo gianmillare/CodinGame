@@ -1,3 +1,6 @@
+// THE DESCENT
+// https://www.codingame.com/training/easy/the-descent
+
 while (true) {
     var max = 0;
     var imax = 0;
